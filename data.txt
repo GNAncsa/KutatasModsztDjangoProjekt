@@ -1,0 +1,1 @@
+{"scores": [{"user": "ancsi", "score": "460"}, {"user": "teszt2", "score": "536"}]}
